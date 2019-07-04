@@ -1,0 +1,7 @@
+C:\Users\jloom\source\repos\AFDemp\CSharp\TeamProject1ByPeri\TeamProject1ByPeri\bin\Debug\TeamProject1ByPeri.exe.config
+C:\Users\jloom\source\repos\AFDemp\CSharp\TeamProject1ByPeri\TeamProject1ByPeri\bin\Debug\TeamProject1ByPeri.exe
+C:\Users\jloom\source\repos\AFDemp\CSharp\TeamProject1ByPeri\TeamProject1ByPeri\bin\Debug\TeamProject1ByPeri.pdb
+C:\Users\jloom\source\repos\AFDemp\CSharp\TeamProject1ByPeri\TeamProject1ByPeri\obj\Debug\TeamProject1ByPeri.csprojAssemblyReference.cache
+C:\Users\jloom\source\repos\AFDemp\CSharp\TeamProject1ByPeri\TeamProject1ByPeri\obj\Debug\TeamProject1ByPeri.csproj.CoreCompileInputs.cache
+C:\Users\jloom\source\repos\AFDemp\CSharp\TeamProject1ByPeri\TeamProject1ByPeri\obj\Debug\TeamProject1ByPeri.exe
+C:\Users\jloom\source\repos\AFDemp\CSharp\TeamProject1ByPeri\TeamProject1ByPeri\obj\Debug\TeamProject1ByPeri.pdb
